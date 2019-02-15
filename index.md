@@ -1,41 +1,13 @@
-## Welcome to GitHub Pages
+My main passion is Artificial Intelligence and it's applications. I'm currently a Machine Learning Engineer @ Vimeo in NYC with 11 years of experience leading a diverse range of projects and always on the lookout for cool opportunities.
 
-You can use the [editor on GitHub](https://github.com/frankcarey/frankcarey.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Where to find me:
+* [LinkedIn: /in/fcarey/](https://www.linkedin.com/in/fcarey/)
+* [Github: /frankcarey](https://github.com/frankcarey/)
+* [Twitter: /frankcarey](https://twitter.com/frankcarey/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Fun Projects
 
-### Markdown
+### Driverless Cars
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-iframe
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lJIrF4YjHfQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-```markdown
-Syntax highlighted code block
-
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/frankcarey/frankcarey.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I completed the Udacity Driverless Car Nanodegree in 2018. It was a really fun (and demanding) year where I grew my knowledge in areas like Computer Vision and Motion Planning.
+<iframe src="https://player.vimeo.com/video/226602074" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
